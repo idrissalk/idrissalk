@@ -1,4 +1,97 @@
-## Hi there 👋
+# Hello, I'm Idriss Alakhouch 👋
+
+📊 Data Scientist | 🎓 Master's degree in Data science and Applied Economics | 🤖 Machine Learning Enthusiast
+
+Welcome to my GitHub profile!  
+I am a **Data Scientist** with a strong background in **Applied Economics**, passionate about extracting insights from data and building predictive models to solve real-world problems.
+
+---
+
+## 🔍 About Me
+
+I specialize in:
+- Data analysis and statistical modeling
+- Machine Learning and predictive analytics
+- Data-driven decision-making
+- Applying data science to business and economic use cases
+
+My goal is to become a **professional Data Scientist** and work on impactful projects in **international tech companies**.
+
+---
+
+## 🚀 Data Scientist
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🔹 Programming
+- Python
+- SQL
+- R
+
+### 🔹 Data Science
+- Pandas, NumPy
+- Scikit-learn
+- Machine Learning 
+- Deep Learning 
+- Feature Engineering
+- Model Evaluation
+- Statistics & Econometrics
+
+### 🔹 Data Visualization
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
+
+### 🔹 Big Data (Foundations)
+- Hadoop (HDFS , HBASE)
+- Spark
+
+### 🔹 Databases
+- MySQL
+- PostgreSQL
+- SQL Server
+
+### 🔹 Tools & Workflow
+- Jupyter Notebook
+- Git & GitHub
+- Docker (basics)
+
+---
+
+## 📚 Currently Learning
+- Advanced Machine Learning
+- Deep Learning
+- MLOps fundamentals
+- Cloud Data Science (Azure)
+
+---
+
+## 📂 Projects
+Here you will find projects related to:
+- Data analysis
+- Machine learning models
+- Business & economic case studies
+- Big data experimentation
+
+---
+
+## 🎯 Career Objective
+- Data Scientist
+- AI & Machine Learning Engineer (long-term)
+- Work in companies like **Google, Microsoft, IBM**
+
+---
+
+## 📫 Contact
+- 💼 LinkedIn: *(add your link here)*
+- 📧 Email: *(add your email here)*
+
+---
+
+⭐ If you like my work, feel free to explore my repositories and connect with me!## Hi there 👋
 
 <!--
 **idrissalk/idrissalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
