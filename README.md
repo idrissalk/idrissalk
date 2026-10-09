@@ -1,6 +1,6 @@
 # Hello, I'm Idriss Alakhouch 👋
 
-📊 Data Scientist | 🎓 Master's degree in Data science and Applied Economics | 🤖 Machine Learning Enthusiast
+📊 Data Scientist & Data Analyst | 🎓 Master's degree in Data science and Applied Economics | 🤖 Machine Learning Enthusiast
 
 Welcome to my GitHub profile!  
 I am a **Data Scientist** with a strong background in **Applied Economics**, passionate about extracting insights from data and building predictive models to solve real-world problems.
@@ -47,7 +47,6 @@ My goal is to become a **professional Data Scientist** and work on impactful pro
 
 ### 🔹 Big Data (Foundations)
 - Hadoop (HDFS , HBASE)
-- Spark
 
 ### 🔹 Databases
 - MySQL
@@ -65,7 +64,6 @@ My goal is to become a **professional Data Scientist** and work on impactful pro
 - Advanced Machine Learning
 - Deep Learning
 - MLOps fundamentals
-- Cloud Data Science (Azure)
 
 ---
 
@@ -74,20 +72,18 @@ Here you will find projects related to:
 - Data analysis
 - Machine learning models
 - Business & economic case studies
-- Big data experimentation
 
 ---
 
 ## 🎯 Career Objective
 - Data Scientist
 - AI & Machine Learning Engineer (long-term)
-- Work in companies like **Google, Microsoft, IBM**
 
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: *(add your email here)*
+- 💼 LinkedIn: www.linkedin.com/in/idriss-alakhouch-3a2752264
+- 📧 Email: idrissalakhouch@gmail.com
 
 ---
 
